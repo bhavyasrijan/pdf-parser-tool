@@ -1,0 +1,169 @@
+,Name,Groups,Operation System,"EndpointsBreakdown*,Compliance",Next Slot Start,Next Slot End,Exemption,Next Slot StartNext Slot End,Next Slot EndExemption,madsfkzb165.nmhsd.Icl,Intune-Endpoints,Windows 10,"Compliance1|0|7Maintenance WindowExpired, UpdatingEndpoint Group87.50%",Range,Exemption Reason
+0,opex-pc4.nmhsd.lcl,Intune-Endpoints,Windows 7,0|0|2 100.00%,,,,,,,,,,91-100%,Fully Patched
+1,isdsfdzb379.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+2,hsd-5cg04666tf.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected, MaintenanceWindow Expired, UpdatingEndpoint Group",,,,,,,<70%,Disconnected
+3,hsd-1rzxk33.nmhsd.Icl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+4,madsfkzb134.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+5,hsd-mxl8251hj5.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+6,hsd-5cg022422f.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+7,hsd-5cd221h9kq.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+8,madsfkzb030.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+9,hsd-gf31533.nmhsd.Icl,Intune-Endpoints,Windows 10,24|0|0 0.00%,,,MaintenanceWindow Expired,,,,,,,<70%,Disconnected
+10,ITDSFIBRD167.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|5 100.00%,,',,,,,,,,91-100%,Fully Patched
+11,ditsfahpws412z.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+12,ditsfazb328.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+13,Opex-PC2.nmhsd.lcl,Intune-Endpoints,Windows 7,1|0|0 0.00%,,,MaintenanceWindow Expired,,,,,,,<70%,Disconnected
+14,isdsfjzb354.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+15,madsfdzb704.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+16,oossfbzb306.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,',,,,,,,,91-100%,Fully Patched
+17,ogcsfblt010.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,',,,,,,,,91-100%,Fully Patched
+18,hsd-mxl8251hq3,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+19,madsfkzb143.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+20,itdsfazb311.nmhsd.Icl,Intune-Endpoints,Windows 10,0|1|9 90.00%,,,"Failed, MaintenanceWindow Expired, LowDisk Space",,,,,,,81-90%,Need to analyze the issue
+21,tanf-dws3177.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|2 100.00%,,,,,,,,,,91-100%,Fully Patched
+22,hsd-5cg04666s5.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,MaintenanceWindow Expired,,,,,,,<70%,Disconnected
+23,hsd-5cg0231j1v.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+24,hsd-5cg04666mw.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+25,hsd-5cg02267xd.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+26,madsfkzb099.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+27,itdabdpd-daj65e1.nmhsd.lcl,Intune-Endpoints,Windows 10,13|0|1 7.14%,,,"Untested Endpoint,Maintenance WindowExpired",,,,,,,<70%,Connector needs to be installed
+28,hsd-5cg0224208.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+29,hsd-5cg022421p.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+30,opex-pc3.nmhsd.lcl,Intune-Endpoints,Windows 7,1|0|0 0.00%,,,MaintenanceWindow Expired,,,,,,,<70%,Disconnected
+31,hsd-5cg9290ywr.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+32,MADSFKZB121.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+33,hsd-mxl7232cx1.nmhsd.lcl,Intune-Endpoints,Windows 10,24|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+34,asdbocws001.nmhsd.Icl,Intune-Endpoints,Windows 10,1|0|4 80.00%,,,MaintenanceWindow Expired,,,,,,,71-80%,Maintenance Window Expired
+35,madsfkzb004.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+36,MADSFKZB133.nmhsd.Icl,Intune-Endpoints,Windows 10,6|1|2 22.22%,,,"Failed, MaintenanceWindow Expired",,,,,,,<70%,Maintenance Window Expired
+37,hsd-5cg0230zsg,Intune-Endpoints,Windows 10,1|0|8 88.89%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,81-90%,Maintenance Window Expired
+38,madsfkzb008.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+39,ditsfaws017.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+40,csesfazb335.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+41,HSD-MXL7232CXX.nmhsd.lcl,Intune-Endpoints,Windows 10,24|0|0 0.00%,,,MaintenanceWindow Expired,',,,,,,<70%,Disconnected
+42,madsfkzb255.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+43,madsfkzb047.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+44,madsfkzb138.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+45,DITSFALT413.nmhsd.Icl,Intune-Endpoints,Windows 10,0|1|13 92.86%,,,"Failed, MaintenanceWindow Expired",,,,,,,91-100%,Need to analyze the issue
+46,hsd-mxl8251hp2.nmhsd.lcl,Intune-Endpoints,Windows 10,24|0|0 0.00%,,,MaintenanceWindow Expired,,,,,,,<70%,Disconnected
+47,isddemzb378.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+48,hsd-5cg0231j2l.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|7 87.50%,,,,,"Disconnected, MaintenanceWindow Expired, UpdatingEndpoint Group",,,,,81-90%,Maintenance Window Expired
+49,hsd-5cd4021jvf.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected, MaintenanceWindow Expired, UpdatingEndpoint Group",,,,,<70%,Disconnected
+50,madsfkzb169.nmhsd.Icl,Intune-Endpoints,Windows 10,1|0|7 87.50%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,81-90%,Maintenance Window Expired
+51,tanf-dws3166.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|2 100.00%,,,,,,,,,,91-100%,Fully Patched
+52,hsd-5cg02268yq.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+53,isdabc-g0230zt1,Intune-Endpoints,Windows 10,5|0|7 58.33%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Maintenance Window Expired
+54,hsd-5cg0231hld.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+55,hsd-5cg0226825.nmhsd.lcl,Intune-Endpoints,Windows 10,0|1|0 0.00%,,,,,"Disconnected, Failed,Maintenance WindowExpired",,,,,<70%,Disconnected
+56,oaaabhws060.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+57,hsd-5cd3446mh0.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+58,ITDROBWS002.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,',,,,,91-100%,Fully Patched
+59,asdsfazb329.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+60,hsd-mxl7232cwg.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+61,hsd-5cg0231gp8.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected, MaintenanceWindow Expired, UpdatingEndpoint Group",,,,,<70%,Disconnected
+62,id47.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|12 100.00%,,,,,,,,,,91-100%,Fully Patched
+63,itdsfipd619.nmhsd.Icl,Intune-Endpoints,Windows 10,0|1|14 93.33%,,,,,"Failed, MaintenanceWindow Expired, LowDisk Space",,,,,91-100%,Need to analyze the issue
+64,HSD-5CD82423G6.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,MaintenanceWindow Expired,,,,,<70%,Disconnected
+65,hsd-5cg0231h7j.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,MaintenanceWindow Expired,,,,,<70%,Disconnected
+66,HSD-801TK33.nmhsd.Icl,Intune-Endpoints,Windows 10,24|0|0 0.00%,,,,,MaintenanceWindow Expired,,,,,<70%,Disconnected
+67,isdsfjzb364.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+68,hsd-fw83xd3.nmhsd.Icl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+69,hsd-5cd221h9mm.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+70,hsd-5cd221h9lz.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+71,Opex-PC1.nmhsd.lcl,Intune-Endpoints,Windows 7,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+72,hsd-5cg046596d.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected, MaintenanceWindow Expired, UpdatingEndpoint Group",,,,,<70%,Disconnected
+73,hsd-5cd2257cwt,Intune-Endpoints,Windows 10,1|0|8 88.89%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,81-90%,Maintenance Window Expired
+74,madsfkzb082.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+75,HSD-5CD221H9ML.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,MaintenanceWindow Expired,,,,,<70%,Disconnected
+76,madsfkzb086.nmhsd.Icl,Intune-Endpoints,Windows 10,1|5|0 0.00%,,,,,"Disconnected, Failed,Maintenance Window Expired,Updating Endpoint Group",,,,,<70%,Disconnected
+77,BHDBRD03.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|2 66.67%,,,,,MaintenanceWindow Expired,,,,,<70%,Maintenance Window Expired
+78,madsfkzb171.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+79,oaaabhws100.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+80,itdsfaws006.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|24 100.00%,,,,,,,,,,91-100%,Fully Patched
+81,madsfkzb156.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+82,hsd-5cg0226810.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+83,MADSFKZB033.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|11 100.00%,,,,,,,,,,91-100%,Fully Patched
+84,madsfkzb110.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+85,madsfkzb037.nmhsd.Icl,Intune-Endpoints,Windows 10,6|0|3 33.33%,,,,,"Maintenance Window Expired,WSUS CommunicationProblems, Updating EndpointGroup",,,,,<70%,Maintenance Window Expired
+86,MADSFKZB018.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+87,hsd-mxl8251hlr.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+88,ISDCASAZB365.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+89,HSD-5CD6506C5Z.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,'MaintenanceWindow Expired,,,,,<70%,Disconnected
+90,isdlsb-g02268yy,Intune-Endpoints,Windows 10,30 457.14%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,,Maintenance Window Expired
+91,madsfkzb128.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+92,hsd-5cg046594k.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+93,hsd-5cg022423d.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+94,hsd-5cg04659dn.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,,,"Disconnected,MaintenanceWindow Expired",,,,,<70%,Disconnected
+95,HSD-4FY5533.nmhsd.Icl,Intune-Endpoints,Windows 10,24|0|0 0.00%,,,,,MaintenanceWindow Expired,,,,,<70%,Disconnected
+96,,,,,,,,,,madsfkzb116.nmhsd.Icl,Intune-Endpoints,Windows 10,007100.00%,,Maintenance Window Expired
+97,,,,,,,,,,madsfkzb044z.nmhsd.Icl,Intune-Endpoints,Windows 10,007100.00%,,Maintenance Window Expired
+98,,,,,,,,,,CSESFDZB342.nmhsd.Icl,Intune-Endpoints,Windows 10,1|0|10MaintenanceWindow Expired90.91%,,Maintenance Window Expired
+99,,,,,,,,,,MADSFKZB097.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7100.00%,,Maintenance Window Expired
+100,,,,,,,,,,APNTSTWS01.nmhsd.Icl,Intune-Endpoints,Windows 10,2|0|10MaintenanceWindow Expired83.33%,,Maintenance Window Expired
+101,,,,,,,,,,ditsfazb316.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10100.00%,,Maintenance Window Expired
+102,,,,,,,,,,MADSFKZB144.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7100.00%,,Maintenance Window Expired
+103,,,,,,,,,,isdrra-g0226835.nmhsd.lcl,Intune-Endpoints,Windows 10,"1|0|0Disconnected,MaintenanceWindow Expired0.00%",,Maintenance Window Expired
+104,,,,,,,,,,isdsfjeb306.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10100.00%,,Maintenance Window Expired
+105,,,,,,,,,,madsfkzb056.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7100.00%,,Maintenance Window Expired
+106,,,,,,,,,,madsfkzb040.nmhsd.Icl,Intune-Endpoints,Windows 10,"1|0|7Untested Endpoint,Maintenance WindowExpired, Updating EndpointGroup87.50%",,Maintenance Window Expired
+107,,,,,,,,,,isdmorpd635k.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10100.00%,,Maintenance Window Expired
+108,,,,,,,,,,hsd-5cg022681p.nmhsd.lcl,Intune-Endpoints,Windows 10,"100Untested Endpoint,Maintenance WindowExpired0.00%",,Maintenance Window Expired
+109,,,,,,,,,,csesfbzb327.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10100.00%,,Maintenance Window Expired
+110,,,,,,,,,,ISDMORPD634K.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10100.00%,,Maintenance Window Expired
+111,,,,,,,,,,madsfdzb363.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10100.00%,,Maintenance Window Expired
+112,,,,,,,,,,madsfkzb088.nmhsd.Icl,Intune-Endpoints,Windows 10,"107'Disconnected,MaintenanceWindow Expired87.50%",,Maintenance Window Expired
+113,,,,,,,,,,hsd-5cg9240c4d.nmhsd.lcl,Intune-Endpoints,Windows 10,"2000.00%Disconnected,MaintenanceWindow Expired",,Maintenance Window Expired
+114,,,,,,,,,,madsfkzb012.nmhsd.Icl,Intune-Endpoints,Windows 10,"Disconnected, MaintenanceWindow Expired, UpdatingEndpoint Group1|0|787.50%",,Maintenance Window Expired
+115,,,,,,,,,,madsfkzb087.nmhsd.Icl,Intune-Endpoints,Windows 10,007100.00%,,Maintenance Window Expired
+116,,,,,,,,,,madsfkzb023z.nmhsd.Icl,Intune-Endpoints,Windows 10,"1|0|7Disconnected,MaintenanceWindow Expired87.50%",,Maintenance Window Expired
+117,,,,,,,,,,tanf-dws3192.nmhsd.Icl,Intune-Endpoints,Windows 10,"3|0|1Disconnected,MaintenanceWindow Expired25.00%",,Maintenance Window Expired
+118,,,,,,,,,,hsd-mxl8251hqk.nmhsd.lcl,Intune-Endpoints,Windows 10,"1|0|0Untested Endpoint,Maintenance WindowExpired0.00%",,Maintenance Window Expired
+119,madsfkzb166.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+120,itdsfipd622.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+121,isdlsbzb377.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+122,hsd-5cg022681x,Intune-Endpoints,Windows 10,1|0|7 87.50%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,81-90%,Maintenance Window Expired
+123,madsfkzb137.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+124,madsfkzb019.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+125,hsd-5cg022421h.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected, MaintenanceWindow Expired, UpdatingEndpoint Group",,,,,,,<70%,Disconnected
+126,hsd-mxl8251hsq.nmhsd.lcl,Intune-Endpoints,Windows 10,24|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+127,hsd-mxl8251hnp,Intune-Endpoints,Windows 10,3|0|9 75.00%,,,"Disconnected,MaintenanceWindow",,,,,,,71-80%,Maintenance Window Expired
+128,hsd-5cg02268y3.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+129,hsd-5cg022695n.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|7 87.50%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,81-90%,Maintenance Window Expired
+130,madsfkzb139.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+131,hsd-5cg04666vc.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,MaintenanceWindow Expired,,,,,,,<70%,Disconnected
+132,hsd-cnd13652cz.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+133,oaaabhlt005.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+134,hsd-5cg9240cf8.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+135,oigsfazb321.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+136,hsd-5cg02268zq.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,',"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+137,hsd-5cg0226829.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+138,hsd-5cg0230zt7.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+139,hsd-5cg02268jb.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+140,hsd-5cd6506c6f.nmhsd.lcl,Intune-Endpoints,Windows 10,3|0|1 25.00%,,,"Disconnected, MaintenanceWindow Expired, Low DiskSpace",,,,,,,<70%,Maintenance Window Expired
+141,hsd-mxl8251hpx.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+142,hsd-5cg9240c3w.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+143,JetPatch,,,,,,Page 18 of 19,,,,,,,,Maintenance Window Expired
+144,hsd-5cd2377rww.nmhsd.lcl,Intune-Endpoints,Windows 10,0|0|1 100.00%,,,,,,,,,,91-100%,Fully Patched
+145,hsd-5cg02268xp.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+146,nmwadminlt742.nmhsd.lcl,Intune-Endpoints,Windows 10,18|0|7 28.00%,,,"Untested Endpoint,Maintenance WindowExpired",,,,,,,<70%,Connector needs to be installed
+147,hsd-mxl8251hnq,Intune-Endpoints,Windows 10,5|0|8 61.54%,,,"Disconnected,MaintenanceWindow Required",,,,,,,<70%,Maintenance Window Expired
+148,hsd-5cg02268zg,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+149,cseabizb369.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|10 100.00%,,,,,,,,,,91-100%,Fully Patched
+150,hsd-5cg022422n.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+151,hsd-5cg0231gq8.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,MaintenanceWindow Required,,,,,,,<70%,Disconnected
+152,hsd-5cg0230znk.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+153,hsd-5cg0226811.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Required",,,,,,,<70%,Disconnected
+154,madsfkzb102.nmhsd.Icl,Intune-Endpoints,Windows 10,1|0|7 87.50%,,,"Disconnected,MaintenanceWindow Required",,,,,,,81-90%,Maintenance Window Expired
+155,hsd-5cd4021jsf.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+156,itdsfizb357.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|6 100.00%,,,,,,,,,,91-100%,Fully Patched
+157,hsd-1hz9xd3.nmhsd.Icl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+158,madsfkzb100.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+159,hsd-mxl8251hnx.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Required",,,,,,,<70%,Disconnected
+160,madsfkzb052.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+161,madsfkzb147.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,',,,,,,,,91-100%,Fully Patched
+162,hsd-5cg9240c58.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Required",,,,,,,<70%,Disconnected
+163,hsd-5cg04666sm,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,<70%,Disconnected
+164,madsfkzb006.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|7 100.00%,,,,,,,,,,91-100%,Fully Patched
+165,hsdint-18251hsn.nmhsd.lcl,Intune-Endpoints,Windows 10,1|0|0 0.00%,,,"Untested Endpoint,Maintenance WindowExpired",,,,,,,<70%,Connector needs to be installed
+166,isdsfbzb323.nmhsd.Icl,Intune-Endpoints,Windows 10,0|0|11 100.00%,,,,,,,,,,91-100%,Fully Patched
+167,madsfkzb111.nmhsd.Icl,Intune-Endpoints,Windows 10,3|0|7 70.00%,,,"Disconnected,MaintenanceWindow Expired",,,,,,,71-80%,Maintenance Window Expired
